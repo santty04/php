@@ -53,6 +53,12 @@
             <form action="pagina8.php">
                 <input type="submit" value="Correos Antiguos" class="btn btn-primary">
             </form>
+            <form action="pagina9.php">
+                <input type="submit" value="Cantidad de alumnos por curso" class="btn btn-primary">
+            </form>
+            <form action="pagina10.php">
+                <input type="submit" value="Ver tablas" class="btn btn-primary">
+            </form>
         </div>
         </div>
     </div>
